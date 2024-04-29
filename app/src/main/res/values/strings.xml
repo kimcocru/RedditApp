@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RedditApp</string>
+    <string name="reddit_post_list_no_items">There are no items to display at the moment</string>
+    <string name="reddit_post_list_comments">%s comments</string>
+    <string name="reddit_post_image_content_description">Reddit Post Image</string>
+    <string name="reddit_post_list_api_error">Something went wrong. Please try again later</string>
+</resources>
